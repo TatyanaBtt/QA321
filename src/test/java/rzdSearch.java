@@ -14,7 +14,7 @@ import static com.codeborne.selenide.SetValueOptions.withText;
 import static com.codeborne.selenide.files.DownloadActions.click;
 import static com.codeborne.selenide.Selectors.withText;
 @ExtendWith({SoftAssertsExtension.class})
-
+//файл загружен в GitHub
 public class rzdSearch {
     @Test
     void MoscowSochi(){
